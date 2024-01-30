@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HarisAli
 - 👀 I’m interested in Java and Minecraft Plugin Development!
-- 🌱 I’m currently learning Minecraft Plugin Developement.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
