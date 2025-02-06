@@ -1,13 +1,13 @@
 # 💫 About Me:
 👋 Hi there! I'm **Haris Ali**, a passionate developer with a strong interest in DevOps and software engineering. I'm currently focused on building efficient, scalable applications and optimizing deployment processes.
-🌱 ## Currently Learning
-* Docker and container orchestration
-* Cloud technologies (AWS, Azure, etc.)
-* Continuous Integration/Continuous Deployment (CI/CD) practices
 
-🌍 ## Connect with Me
+## 🌱 Currently Learning
+- Docker and container orchestration
+- Cloud technologies (AWS, Azure, etc.)
+- Continuous Integration/Continuous Deployment (CI/CD) practices
+
+## 🌍 Connect with Me
 I'm always eager to collaborate on exciting projects and learn from others. Feel free to check out my repositories and reach out if you’d like to connect!
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@harisali.com) 
