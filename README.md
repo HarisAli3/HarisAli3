@@ -1,3 +1,5 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 👋 Hi there! I'm **Haris Ali**, a passionate developer with a strong interest in DevOps and software engineering. I'm currently focused on building efficient, scalable applications and optimizing deployment processes.
 
