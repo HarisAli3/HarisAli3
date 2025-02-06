@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on a Docker monitoring system for my home lab and personal projects, focusing on optimizing deployment processes.<br>👯 I’m looking to collaborate on projects involving DevOps, cloud technologies, and web applications.<br>🤝 I’m looking for help with advanced Git workflows and optimizing Docker Compose setups for multi-server environments.<br>🌱 I’m currently learning about cloud technologies, CI/CD practices, and container orchestration.<br>💬 Ask me about my experience with Laravel, C++, and building efficient systems.<br><br>
+👋 Hi there! I'm **Haris Ali**, a passionate developer with a strong interest in DevOps and software engineering. I'm currently focused on building efficient, scalable applications and optimizing deployment processes.
+🌱 ## Currently Learning
+* Docker and container orchestration
+* Cloud technologies (AWS, Azure, etc.)
+* Continuous Integration/Continuous Deployment (CI/CD) practices
+
+🌍 ## Connect with Me
+I'm always eager to collaborate on exciting projects and learn from others. Feel free to check out my repositories and reach out if you’d like to connect!
 
 
 ## 🌐 Socials:
